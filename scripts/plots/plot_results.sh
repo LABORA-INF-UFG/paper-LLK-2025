@@ -1,0 +1,11 @@
+python3 1.py
+python3 2.py
+epstopdf graficos/2.eps
+rm graficos/2.eps
+python3 3.py
+python3 4.py
+python3 5.py
+python3 6.py
+python3 7.py
+python3 8.py
+python3 18.py
